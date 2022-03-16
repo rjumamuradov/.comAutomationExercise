@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.944">
+    <testcase classname="US02 Sepet Guncelleme" name="TC17: Remove Products From Cart" time="0.206">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given Launch browser........................................................undefined
+Then Navigate to url automation.............................................skipped
+And Verify that home page is visible successfully...........................skipped
+And Add products to cart....................................................skipped
+Then Click 'Cart' button....................................................skipped
+And Verify that cart page is displayed......................................skipped
+Then Click 'X' button corresponding to particular product...................skipped
+And Verify that product is removed from the cart............................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
